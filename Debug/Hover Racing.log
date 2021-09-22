@@ -1,156 +1,157 @@
 ﻿cl : command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
   Hover Racing.cpp
-D:\Projects\Visual Studio Projects\Hover Racing\Hover Racing\car.h(39,29): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
-D:\Projects\Visual Studio Projects\Hover Racing\Hover Racing\car.h(110,52): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-D:\Projects\Visual Studio Projects\Hover Racing\Hover Racing\car.h(111,64): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-D:\Projects\Visual Studio Projects\Hover Racing\Hover Racing\Hover Racing.cpp(32,1): warning C4005: 'RACE_COMPLETE': macro redefinition
-D:\Projects\Visual Studio Projects\Hover Racing\Hover Racing\car.h(16): message : see previous definition of 'RACE_COMPLETE'
-D:\Projects\Visual Studio Projects\Hover Racing\Hover Racing\Hover Racing.cpp(826,82): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
-D:\Projects\Visual Studio Projects\Hover Racing\Hover Racing\Hover Racing.cpp(834,82): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
-D:\Projects\Visual Studio Projects\Hover Racing\Hover Racing\Hover Racing.cpp(842,82): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
-D:\Projects\Visual Studio Projects\Hover Racing\Hover Racing\Hover Racing.cpp(850,82): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
-D:\Projects\Visual Studio Projects\Hover Racing\Hover Racing\Hover Racing.cpp(860,83): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
-D:\Projects\Visual Studio Projects\Hover Racing\Hover Racing\Hover Racing.cpp(869,83): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
-D:\Projects\Visual Studio Projects\Hover Racing\Hover Racing\Hover Racing.cpp(877,83): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
-D:\Projects\Visual Studio Projects\Hover Racing\Hover Racing\Hover Racing.cpp(885,83): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
-D:\Projects\Visual Studio Projects\Hover Racing\Hover Racing\Hover Racing.cpp(914,82): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
-D:\Projects\Visual Studio Projects\Hover Racing\Hover Racing\Hover Racing.cpp(915,82): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
-D:\Projects\Visual Studio Projects\Hover Racing\Hover Racing\Hover Racing.cpp(920,82): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
-D:\Projects\Visual Studio Projects\Hover Racing\Hover Racing\Hover Racing.cpp(921,82): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
-D:\Projects\Visual Studio Projects\Hover Racing\Hover Racing\Hover Racing.cpp(926,82): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
-D:\Projects\Visual Studio Projects\Hover Racing\Hover Racing\Hover Racing.cpp(927,82): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
-D:\Projects\Visual Studio Projects\Hover Racing\Hover Racing\Hover Racing.cpp(931,82): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
-D:\Projects\Visual Studio Projects\Hover Racing\Hover Racing\Hover Racing.cpp(932,82): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
-D:\Projects\Visual Studio Projects\Hover Racing\Hover Racing\Hover Racing.cpp(954,40): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-D:\Projects\Visual Studio Projects\Hover Racing\Hover Racing\Hover Racing.cpp(976,57): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
-D:\Projects\Visual Studio Projects\Hover Racing\Hover Racing\Hover Racing.cpp(980,57): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
-D:\Projects\Visual Studio Projects\Hover Racing\Hover Racing\Hover Racing.cpp(984,57): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
-D:\Projects\Visual Studio Projects\Hover Racing\Hover Racing\Hover Racing.cpp(988,57): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
-D:\Projects\Visual Studio Projects\Hover Racing\Hover Racing\Hover Racing.cpp(1288,65): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
-D:\Projects\Visual Studio Projects\Hover Racing\Hover Racing\Hover Racing.cpp(1288,55): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
-D:\Projects\Visual Studio Projects\Hover Racing\Hover Racing\Hover Racing.cpp(1289,65): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
-D:\Projects\Visual Studio Projects\Hover Racing\Hover Racing\Hover Racing.cpp(1289,55): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
-D:\Projects\Visual Studio Projects\Hover Racing\Hover Racing\Hover Racing.cpp(1292,64): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
-D:\Projects\Visual Studio Projects\Hover Racing\Hover Racing\Hover Racing.cpp(1293,57): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
-D:\Projects\Visual Studio Projects\Hover Racing\Hover Racing\Hover Racing.cpp(1317,80): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
-D:\Projects\Visual Studio Projects\Hover Racing\Hover Racing\Hover Racing.cpp(1317,67): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
-D:\Projects\Visual Studio Projects\Hover Racing\Hover Racing\Hover Racing.cpp(1322,67): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
-D:\Projects\Visual Studio Projects\Hover Racing\Hover Racing\Hover Racing.cpp(1329,80): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
-D:\Projects\Visual Studio Projects\Hover Racing\Hover Racing\Hover Racing.cpp(1329,67): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
-D:\Projects\Visual Studio Projects\Hover Racing\Hover Racing\Hover Racing.cpp(1335,80): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
-D:\Projects\Visual Studio Projects\Hover Racing\Hover Racing\Hover Racing.cpp(1335,67): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
-D:\Projects\Visual Studio Projects\Hover Racing\Hover Racing\Hover Racing.cpp(1342,80): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
-D:\Projects\Visual Studio Projects\Hover Racing\Hover Racing\Hover Racing.cpp(1342,67): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
-D:\Projects\Visual Studio Projects\Hover Racing\Hover Racing\Hover Racing.cpp(1348,80): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
-D:\Projects\Visual Studio Projects\Hover Racing\Hover Racing\Hover Racing.cpp(1348,67): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
-D:\Projects\Visual Studio Projects\Hover Racing\Hover Racing\Hover Racing.cpp(1353,80): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
-D:\Projects\Visual Studio Projects\Hover Racing\Hover Racing\Hover Racing.cpp(1353,67): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
-D:\Projects\Visual Studio Projects\Hover Racing\Hover Racing\Hover Racing.cpp(1359,80): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
-D:\Projects\Visual Studio Projects\Hover Racing\Hover Racing\Hover Racing.cpp(1359,67): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
-D:\Projects\Visual Studio Projects\Hover Racing\Hover Racing\Hover Racing.cpp(1377,57): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
-D:\Projects\Visual Studio Projects\Hover Racing\Hover Racing\Hover Racing.cpp(1377,45): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
-D:\Projects\Visual Studio Projects\Hover Racing\Hover Racing\Hover Racing.cpp(1378,57): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
-D:\Projects\Visual Studio Projects\Hover Racing\Hover Racing\Hover Racing.cpp(1378,46): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
-D:\Projects\Visual Studio Projects\Hover Racing\Hover Racing\Hover Racing.cpp(1383,45): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
-D:\Projects\Visual Studio Projects\Hover Racing\Hover Racing\Hover Racing.cpp(1384,46): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
-D:\Projects\Visual Studio Projects\Hover Racing\Hover Racing\Hover Racing.cpp(1391,56): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
-D:\Projects\Visual Studio Projects\Hover Racing\Hover Racing\Hover Racing.cpp(1391,45): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
-D:\Projects\Visual Studio Projects\Hover Racing\Hover Racing\Hover Racing.cpp(1392,64): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
-D:\Projects\Visual Studio Projects\Hover Racing\Hover Racing\Hover Racing.cpp(1392,46): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
-D:\Projects\Visual Studio Projects\Hover Racing\Hover Racing\Hover Racing.cpp(1399,56): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
-D:\Projects\Visual Studio Projects\Hover Racing\Hover Racing\Hover Racing.cpp(1399,45): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
-D:\Projects\Visual Studio Projects\Hover Racing\Hover Racing\Hover Racing.cpp(1400,64): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
-D:\Projects\Visual Studio Projects\Hover Racing\Hover Racing\Hover Racing.cpp(1400,46): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
-D:\Projects\Visual Studio Projects\Hover Racing\Hover Racing\Hover Racing.cpp(1408,67): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
-D:\Projects\Visual Studio Projects\Hover Racing\Hover Racing\Hover Racing.cpp(1408,52): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
-D:\Projects\Visual Studio Projects\Hover Racing\Hover Racing\Hover Racing.cpp(1409,68): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
-D:\Projects\Visual Studio Projects\Hover Racing\Hover Racing\Hover Racing.cpp(1409,53): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
-D:\Projects\Visual Studio Projects\Hover Racing\Hover Racing\Hover Racing.cpp(1416,60): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
-D:\Projects\Visual Studio Projects\Hover Racing\Hover Racing\Hover Racing.cpp(1416,52): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
-D:\Projects\Visual Studio Projects\Hover Racing\Hover Racing\Hover Racing.cpp(1417,61): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
-D:\Projects\Visual Studio Projects\Hover Racing\Hover Racing\Hover Racing.cpp(1417,53): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
-D:\Projects\Visual Studio Projects\Hover Racing\Hover Racing\Hover Racing.cpp(1422,60): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
-D:\Projects\Visual Studio Projects\Hover Racing\Hover Racing\Hover Racing.cpp(1422,52): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
-D:\Projects\Visual Studio Projects\Hover Racing\Hover Racing\Hover Racing.cpp(1423,61): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
-D:\Projects\Visual Studio Projects\Hover Racing\Hover Racing\Hover Racing.cpp(1423,53): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
-D:\Projects\Visual Studio Projects\Hover Racing\Hover Racing\Hover Racing.cpp(1430,63): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
-D:\Projects\Visual Studio Projects\Hover Racing\Hover Racing\Hover Racing.cpp(1430,45): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
-D:\Projects\Visual Studio Projects\Hover Racing\Hover Racing\Hover Racing.cpp(1431,64): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
-D:\Projects\Visual Studio Projects\Hover Racing\Hover Racing\Hover Racing.cpp(1431,46): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
-D:\Projects\Visual Studio Projects\Hover Racing\Hover Racing\Hover Racing.cpp(1452,54): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
-D:\Projects\Visual Studio Projects\Hover Racing\Hover Racing\Hover Racing.cpp(1464,55): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
-D:\Projects\Visual Studio Projects\Hover Racing\Hover Racing\Hover Racing.cpp(1473,58): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
-D:\Projects\Visual Studio Projects\Hover Racing\Hover Racing\Hover Racing.cpp(1473,47): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
-D:\Projects\Visual Studio Projects\Hover Racing\Hover Racing\Hover Racing.cpp(1479,58): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
-D:\Projects\Visual Studio Projects\Hover Racing\Hover Racing\Hover Racing.cpp(1479,47): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
-D:\Projects\Visual Studio Projects\Hover Racing\Hover Racing\Hover Racing.cpp(1485,58): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
-D:\Projects\Visual Studio Projects\Hover Racing\Hover Racing\Hover Racing.cpp(1485,47): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
-D:\Projects\Visual Studio Projects\Hover Racing\Hover Racing\Hover Racing.cpp(1491,58): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
-D:\Projects\Visual Studio Projects\Hover Racing\Hover Racing\Hover Racing.cpp(1491,47): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
-D:\Projects\Visual Studio Projects\Hover Racing\Hover Racing\Hover Racing.cpp(1497,58): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
-D:\Projects\Visual Studio Projects\Hover Racing\Hover Racing\Hover Racing.cpp(1497,47): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
-D:\Projects\Visual Studio Projects\Hover Racing\Hover Racing\Hover Racing.cpp(1502,58): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
-D:\Projects\Visual Studio Projects\Hover Racing\Hover Racing\Hover Racing.cpp(1502,47): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
-D:\Projects\Visual Studio Projects\Hover Racing\Hover Racing\Hover Racing.cpp(1507,58): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
-D:\Projects\Visual Studio Projects\Hover Racing\Hover Racing\Hover Racing.cpp(1507,47): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
-D:\Projects\Visual Studio Projects\Hover Racing\Hover Racing\Hover Racing.cpp(1512,58): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
-D:\Projects\Visual Studio Projects\Hover Racing\Hover Racing\Hover Racing.cpp(1512,47): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
-D:\Projects\Visual Studio Projects\Hover Racing\Hover Racing\Hover Racing.cpp(1529,61): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
-D:\Projects\Visual Studio Projects\Hover Racing\Hover Racing\Hover Racing.cpp(1529,49): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
-D:\Projects\Visual Studio Projects\Hover Racing\Hover Racing\Hover Racing.cpp(1535,61): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
-D:\Projects\Visual Studio Projects\Hover Racing\Hover Racing\Hover Racing.cpp(1535,49): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
-D:\Projects\Visual Studio Projects\Hover Racing\Hover Racing\Hover Racing.cpp(1541,61): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
-D:\Projects\Visual Studio Projects\Hover Racing\Hover Racing\Hover Racing.cpp(1541,49): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
-D:\Projects\Visual Studio Projects\Hover Racing\Hover Racing\Hover Racing.cpp(1554,47): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
-D:\Projects\Visual Studio Projects\Hover Racing\Hover Racing\Hover Racing.cpp(1558,46): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
-D:\Projects\Visual Studio Projects\Hover Racing\Hover Racing\Hover Racing.cpp(1562,47): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
-D:\Projects\Visual Studio Projects\Hover Racing\Hover Racing\Hover Racing.cpp(1566,46): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
-D:\Projects\Visual Studio Projects\Hover Racing\Hover Racing\Hover Racing.cpp(1570,47): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
-D:\Projects\Visual Studio Projects\Hover Racing\Hover Racing\Hover Racing.cpp(1574,47): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
-D:\Projects\Visual Studio Projects\Hover Racing\Hover Racing\Hover Racing.cpp(1578,49): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
-D:\Projects\Visual Studio Projects\Hover Racing\Hover Racing\Hover Racing.cpp(1582,49): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
-D:\Projects\Visual Studio Projects\Hover Racing\Hover Racing\Hover Racing.cpp(1586,49): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
-D:\Projects\Visual Studio Projects\Hover Racing\Hover Racing\Hover Racing.cpp(1590,49): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
-D:\Projects\Visual Studio Projects\Hover Racing\Hover Racing\Hover Racing.cpp(1594,49): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
-D:\Projects\Visual Studio Projects\Hover Racing\Hover Racing\Hover Racing.cpp(1598,49): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
-D:\Projects\Visual Studio Projects\Hover Racing\Hover Racing\Hover Racing.cpp(1602,49): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
-D:\Projects\Visual Studio Projects\Hover Racing\Hover Racing\Hover Racing.cpp(1606,49): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
-D:\Projects\Visual Studio Projects\Hover Racing\Hover Racing\Hover Racing.cpp(1610,49): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
-D:\Projects\Visual Studio Projects\Hover Racing\Hover Racing\Hover Racing.cpp(1614,49): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
-D:\Projects\Visual Studio Projects\Hover Racing\Hover Racing\Hover Racing.cpp(1618,49): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
-D:\Projects\Visual Studio Projects\Hover Racing\Hover Racing\Hover Racing.cpp(1622,49): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
-D:\Projects\Visual Studio Projects\Hover Racing\Hover Racing\Hover Racing.cpp(1626,49): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
-D:\Projects\Visual Studio Projects\Hover Racing\Hover Racing\Hover Racing.cpp(1630,48): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
-D:\Projects\Visual Studio Projects\Hover Racing\Hover Racing\Hover Racing.cpp(1750,112): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-D:\Projects\Visual Studio Projects\Hover Racing\Hover Racing\Hover Racing.cpp(1755,44): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
-D:\Projects\Visual Studio Projects\Hover Racing\Hover Racing\Hover Racing.cpp(1759,44): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
-D:\Projects\Visual Studio Projects\Hover Racing\Hover Racing\Hover Racing.cpp(1763,76): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
-D:\Projects\Visual Studio Projects\Hover Racing\Hover Racing\Hover Racing.cpp(1766,76): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
-D:\Projects\Visual Studio Projects\Hover Racing\Hover Racing\Hover Racing.cpp(1769,76): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
-D:\Projects\Visual Studio Projects\Hover Racing\Hover Racing\Hover Racing.cpp(1772,76): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Projects\Git\Visual Studio\Hover Racing\car.h(39,29): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+D:\Projects\Git\Visual Studio\Hover Racing\car.h(110,52): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Projects\Git\Visual Studio\Hover Racing\car.h(111,64): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Projects\Git\Visual Studio\Hover Racing\Hover Racing.cpp(32,1): warning C4005: 'RACE_COMPLETE': macro redefinition
+D:\Projects\Git\Visual Studio\Hover Racing\car.h(16): message : see previous definition of 'RACE_COMPLETE'
+D:\Projects\Git\Visual Studio\Hover Racing\Hover Racing.cpp(826,82): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+D:\Projects\Git\Visual Studio\Hover Racing\Hover Racing.cpp(834,82): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+D:\Projects\Git\Visual Studio\Hover Racing\Hover Racing.cpp(842,82): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+D:\Projects\Git\Visual Studio\Hover Racing\Hover Racing.cpp(850,82): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+D:\Projects\Git\Visual Studio\Hover Racing\Hover Racing.cpp(860,83): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+D:\Projects\Git\Visual Studio\Hover Racing\Hover Racing.cpp(869,83): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+D:\Projects\Git\Visual Studio\Hover Racing\Hover Racing.cpp(877,83): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+D:\Projects\Git\Visual Studio\Hover Racing\Hover Racing.cpp(885,83): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+D:\Projects\Git\Visual Studio\Hover Racing\Hover Racing.cpp(914,82): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+D:\Projects\Git\Visual Studio\Hover Racing\Hover Racing.cpp(915,82): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+D:\Projects\Git\Visual Studio\Hover Racing\Hover Racing.cpp(920,82): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+D:\Projects\Git\Visual Studio\Hover Racing\Hover Racing.cpp(921,82): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+D:\Projects\Git\Visual Studio\Hover Racing\Hover Racing.cpp(926,82): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+D:\Projects\Git\Visual Studio\Hover Racing\Hover Racing.cpp(927,82): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+D:\Projects\Git\Visual Studio\Hover Racing\Hover Racing.cpp(931,82): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+D:\Projects\Git\Visual Studio\Hover Racing\Hover Racing.cpp(932,82): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+D:\Projects\Git\Visual Studio\Hover Racing\Hover Racing.cpp(954,40): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Projects\Git\Visual Studio\Hover Racing\Hover Racing.cpp(976,57): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+D:\Projects\Git\Visual Studio\Hover Racing\Hover Racing.cpp(980,57): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+D:\Projects\Git\Visual Studio\Hover Racing\Hover Racing.cpp(984,57): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+D:\Projects\Git\Visual Studio\Hover Racing\Hover Racing.cpp(988,57): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+D:\Projects\Git\Visual Studio\Hover Racing\Hover Racing.cpp(1288,65): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+D:\Projects\Git\Visual Studio\Hover Racing\Hover Racing.cpp(1288,55): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+D:\Projects\Git\Visual Studio\Hover Racing\Hover Racing.cpp(1289,65): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+D:\Projects\Git\Visual Studio\Hover Racing\Hover Racing.cpp(1289,55): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+D:\Projects\Git\Visual Studio\Hover Racing\Hover Racing.cpp(1292,64): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+D:\Projects\Git\Visual Studio\Hover Racing\Hover Racing.cpp(1293,57): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+D:\Projects\Git\Visual Studio\Hover Racing\Hover Racing.cpp(1317,80): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+D:\Projects\Git\Visual Studio\Hover Racing\Hover Racing.cpp(1317,67): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+D:\Projects\Git\Visual Studio\Hover Racing\Hover Racing.cpp(1322,67): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+D:\Projects\Git\Visual Studio\Hover Racing\Hover Racing.cpp(1329,80): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+D:\Projects\Git\Visual Studio\Hover Racing\Hover Racing.cpp(1329,67): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+D:\Projects\Git\Visual Studio\Hover Racing\Hover Racing.cpp(1335,80): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+D:\Projects\Git\Visual Studio\Hover Racing\Hover Racing.cpp(1335,67): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+D:\Projects\Git\Visual Studio\Hover Racing\Hover Racing.cpp(1342,80): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+D:\Projects\Git\Visual Studio\Hover Racing\Hover Racing.cpp(1342,67): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+D:\Projects\Git\Visual Studio\Hover Racing\Hover Racing.cpp(1348,80): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+D:\Projects\Git\Visual Studio\Hover Racing\Hover Racing.cpp(1348,67): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+D:\Projects\Git\Visual Studio\Hover Racing\Hover Racing.cpp(1353,80): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+D:\Projects\Git\Visual Studio\Hover Racing\Hover Racing.cpp(1353,67): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+D:\Projects\Git\Visual Studio\Hover Racing\Hover Racing.cpp(1359,80): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+D:\Projects\Git\Visual Studio\Hover Racing\Hover Racing.cpp(1359,67): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+D:\Projects\Git\Visual Studio\Hover Racing\Hover Racing.cpp(1377,57): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+D:\Projects\Git\Visual Studio\Hover Racing\Hover Racing.cpp(1377,45): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+D:\Projects\Git\Visual Studio\Hover Racing\Hover Racing.cpp(1378,57): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+D:\Projects\Git\Visual Studio\Hover Racing\Hover Racing.cpp(1378,46): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+D:\Projects\Git\Visual Studio\Hover Racing\Hover Racing.cpp(1383,45): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+D:\Projects\Git\Visual Studio\Hover Racing\Hover Racing.cpp(1384,46): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+D:\Projects\Git\Visual Studio\Hover Racing\Hover Racing.cpp(1391,56): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+D:\Projects\Git\Visual Studio\Hover Racing\Hover Racing.cpp(1391,45): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+D:\Projects\Git\Visual Studio\Hover Racing\Hover Racing.cpp(1392,64): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+D:\Projects\Git\Visual Studio\Hover Racing\Hover Racing.cpp(1392,46): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+D:\Projects\Git\Visual Studio\Hover Racing\Hover Racing.cpp(1399,56): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+D:\Projects\Git\Visual Studio\Hover Racing\Hover Racing.cpp(1399,45): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+D:\Projects\Git\Visual Studio\Hover Racing\Hover Racing.cpp(1400,64): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+D:\Projects\Git\Visual Studio\Hover Racing\Hover Racing.cpp(1400,46): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+D:\Projects\Git\Visual Studio\Hover Racing\Hover Racing.cpp(1408,67): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+D:\Projects\Git\Visual Studio\Hover Racing\Hover Racing.cpp(1408,52): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+D:\Projects\Git\Visual Studio\Hover Racing\Hover Racing.cpp(1409,68): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+D:\Projects\Git\Visual Studio\Hover Racing\Hover Racing.cpp(1409,53): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+D:\Projects\Git\Visual Studio\Hover Racing\Hover Racing.cpp(1416,60): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+D:\Projects\Git\Visual Studio\Hover Racing\Hover Racing.cpp(1416,52): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+D:\Projects\Git\Visual Studio\Hover Racing\Hover Racing.cpp(1417,61): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+D:\Projects\Git\Visual Studio\Hover Racing\Hover Racing.cpp(1417,53): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+D:\Projects\Git\Visual Studio\Hover Racing\Hover Racing.cpp(1422,60): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+D:\Projects\Git\Visual Studio\Hover Racing\Hover Racing.cpp(1422,52): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+D:\Projects\Git\Visual Studio\Hover Racing\Hover Racing.cpp(1423,61): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+D:\Projects\Git\Visual Studio\Hover Racing\Hover Racing.cpp(1423,53): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+D:\Projects\Git\Visual Studio\Hover Racing\Hover Racing.cpp(1430,63): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+D:\Projects\Git\Visual Studio\Hover Racing\Hover Racing.cpp(1430,45): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+D:\Projects\Git\Visual Studio\Hover Racing\Hover Racing.cpp(1431,64): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+D:\Projects\Git\Visual Studio\Hover Racing\Hover Racing.cpp(1431,46): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+D:\Projects\Git\Visual Studio\Hover Racing\Hover Racing.cpp(1452,54): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+D:\Projects\Git\Visual Studio\Hover Racing\Hover Racing.cpp(1464,55): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+D:\Projects\Git\Visual Studio\Hover Racing\Hover Racing.cpp(1473,58): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+D:\Projects\Git\Visual Studio\Hover Racing\Hover Racing.cpp(1473,47): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+D:\Projects\Git\Visual Studio\Hover Racing\Hover Racing.cpp(1479,58): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+D:\Projects\Git\Visual Studio\Hover Racing\Hover Racing.cpp(1479,47): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+D:\Projects\Git\Visual Studio\Hover Racing\Hover Racing.cpp(1485,58): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+D:\Projects\Git\Visual Studio\Hover Racing\Hover Racing.cpp(1485,47): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+D:\Projects\Git\Visual Studio\Hover Racing\Hover Racing.cpp(1491,58): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+D:\Projects\Git\Visual Studio\Hover Racing\Hover Racing.cpp(1491,47): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+D:\Projects\Git\Visual Studio\Hover Racing\Hover Racing.cpp(1497,58): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+D:\Projects\Git\Visual Studio\Hover Racing\Hover Racing.cpp(1497,47): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+D:\Projects\Git\Visual Studio\Hover Racing\Hover Racing.cpp(1502,58): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+D:\Projects\Git\Visual Studio\Hover Racing\Hover Racing.cpp(1502,47): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+D:\Projects\Git\Visual Studio\Hover Racing\Hover Racing.cpp(1507,58): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+D:\Projects\Git\Visual Studio\Hover Racing\Hover Racing.cpp(1507,47): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+D:\Projects\Git\Visual Studio\Hover Racing\Hover Racing.cpp(1512,58): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+D:\Projects\Git\Visual Studio\Hover Racing\Hover Racing.cpp(1512,47): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+D:\Projects\Git\Visual Studio\Hover Racing\Hover Racing.cpp(1529,61): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+D:\Projects\Git\Visual Studio\Hover Racing\Hover Racing.cpp(1529,49): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+D:\Projects\Git\Visual Studio\Hover Racing\Hover Racing.cpp(1535,61): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+D:\Projects\Git\Visual Studio\Hover Racing\Hover Racing.cpp(1535,49): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+D:\Projects\Git\Visual Studio\Hover Racing\Hover Racing.cpp(1541,61): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+D:\Projects\Git\Visual Studio\Hover Racing\Hover Racing.cpp(1541,49): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+D:\Projects\Git\Visual Studio\Hover Racing\Hover Racing.cpp(1554,47): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+D:\Projects\Git\Visual Studio\Hover Racing\Hover Racing.cpp(1558,46): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+D:\Projects\Git\Visual Studio\Hover Racing\Hover Racing.cpp(1562,47): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+D:\Projects\Git\Visual Studio\Hover Racing\Hover Racing.cpp(1566,46): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+D:\Projects\Git\Visual Studio\Hover Racing\Hover Racing.cpp(1570,47): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+D:\Projects\Git\Visual Studio\Hover Racing\Hover Racing.cpp(1574,47): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+D:\Projects\Git\Visual Studio\Hover Racing\Hover Racing.cpp(1578,49): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+D:\Projects\Git\Visual Studio\Hover Racing\Hover Racing.cpp(1582,49): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+D:\Projects\Git\Visual Studio\Hover Racing\Hover Racing.cpp(1586,49): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+D:\Projects\Git\Visual Studio\Hover Racing\Hover Racing.cpp(1590,49): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+D:\Projects\Git\Visual Studio\Hover Racing\Hover Racing.cpp(1594,49): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+D:\Projects\Git\Visual Studio\Hover Racing\Hover Racing.cpp(1598,49): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+D:\Projects\Git\Visual Studio\Hover Racing\Hover Racing.cpp(1602,49): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+D:\Projects\Git\Visual Studio\Hover Racing\Hover Racing.cpp(1606,49): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+D:\Projects\Git\Visual Studio\Hover Racing\Hover Racing.cpp(1610,49): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+D:\Projects\Git\Visual Studio\Hover Racing\Hover Racing.cpp(1614,49): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+D:\Projects\Git\Visual Studio\Hover Racing\Hover Racing.cpp(1618,49): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+D:\Projects\Git\Visual Studio\Hover Racing\Hover Racing.cpp(1622,49): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+D:\Projects\Git\Visual Studio\Hover Racing\Hover Racing.cpp(1626,49): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+D:\Projects\Git\Visual Studio\Hover Racing\Hover Racing.cpp(1630,48): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+D:\Projects\Git\Visual Studio\Hover Racing\Hover Racing.cpp(1750,112): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Projects\Git\Visual Studio\Hover Racing\Hover Racing.cpp(1755,44): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Projects\Git\Visual Studio\Hover Racing\Hover Racing.cpp(1759,44): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Projects\Git\Visual Studio\Hover Racing\Hover Racing.cpp(1763,76): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Projects\Git\Visual Studio\Hover Racing\Hover Racing.cpp(1766,76): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Projects\Git\Visual Studio\Hover Racing\Hover Racing.cpp(1769,76): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Projects\Git\Visual Studio\Hover Racing\Hover Racing.cpp(1772,76): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
   car.cpp
-D:\Projects\Visual Studio Projects\Hover Racing\Hover Racing\car.h(39,29): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
-D:\Projects\Visual Studio Projects\Hover Racing\Hover Racing\car.h(110,52): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-D:\Projects\Visual Studio Projects\Hover Racing\Hover Racing\car.h(111,64): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Projects\Git\Visual Studio\Hover Racing\car.h(39,29): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+D:\Projects\Git\Visual Studio\Hover Racing\car.h(110,52): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Projects\Git\Visual Studio\Hover Racing\car.h(111,64): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
   Generating Code...
-TL-Engine2019Debug.lib(TL-Engine.obj) : warning LNK4099: PDB 'TL-Engine.pdb' was not found with 'TL-Engine2019Debug.lib(TL-Engine.obj)' or at 'D:\Projects\Visual Studio Projects\Hover Racing\Hover Racing\TL-Engine.pdb'; linking object as if no debug info
-TL-Engine2019Debug.lib(Errors.obj) : warning LNK4099: PDB 'Common.pdb' was not found with 'TL-Engine2019Debug.lib(Errors.obj)' or at 'D:\Projects\Visual Studio Projects\Hover Racing\Hover Racing\Common.pdb'; linking object as if no debug info
-TL-Engine2019Debug.lib(TLXSprite.obj) : warning LNK4099: PDB '3DEngine.pdb' was not found with 'TL-Engine2019Debug.lib(TLXSprite.obj)' or at 'D:\Projects\Visual Studio Projects\Hover Racing\Hover Racing\3DEngine.pdb'; linking object as if no debug info
-TL-Engine2019Debug.lib(TLXSceneNode.obj) : warning LNK4099: PDB '3DEngine.pdb' was not found with 'TL-Engine2019Debug.lib(TLXSceneNode.obj)' or at 'D:\Projects\Visual Studio Projects\Hover Racing\Hover Racing\3DEngine.pdb'; linking object as if no debug info
-TL-Engine2019Debug.lib(TLXModelNode.obj) : warning LNK4099: PDB '3DEngine.pdb' was not found with 'TL-Engine2019Debug.lib(TLXModelNode.obj)' or at 'D:\Projects\Visual Studio Projects\Hover Racing\Hover Racing\3DEngine.pdb'; linking object as if no debug info
-TL-Engine2019Debug.lib(TLXModel.obj) : warning LNK4099: PDB '3DEngine.pdb' was not found with 'TL-Engine2019Debug.lib(TLXModel.obj)' or at 'D:\Projects\Visual Studio Projects\Hover Racing\Hover Racing\3DEngine.pdb'; linking object as if no debug info
-TL-Engine2019Debug.lib(TLXMesh.obj) : warning LNK4099: PDB '3DEngine.pdb' was not found with 'TL-Engine2019Debug.lib(TLXMesh.obj)' or at 'D:\Projects\Visual Studio Projects\Hover Racing\Hover Racing\3DEngine.pdb'; linking object as if no debug info
-TL-Engine2019Debug.lib(TLXLight.obj) : warning LNK4099: PDB '' was not found with 'TL-Engine2019Debug.lib(TLXLight.obj)' or at ''; linking object as if no debug info
-TL-Engine2019Debug.lib(TLXFont.obj) : warning LNK4099: PDB '3DEngine.pdb' was not found with 'TL-Engine2019Debug.lib(TLXFont.obj)' or at 'D:\Projects\Visual Studio Projects\Hover Racing\Hover Racing\3DEngine.pdb'; linking object as if no debug info
-TL-Engine2019Debug.lib(TLXEngine.obj) : warning LNK4099: PDB '3DEngine.pdb' was not found with 'TL-Engine2019Debug.lib(TLXEngine.obj)' or at 'D:\Projects\Visual Studio Projects\Hover Racing\Hover Racing\3DEngine.pdb'; linking object as if no debug info
-TL-Engine2019Debug.lib(TLXCamera.obj) : warning LNK4099: PDB '3DEngine.pdb' was not found with 'TL-Engine2019Debug.lib(TLXCamera.obj)' or at 'D:\Projects\Visual Studio Projects\Hover Racing\Hover Racing\3DEngine.pdb'; linking object as if no debug info
-TL-Engine2019Debug.lib(IrrlichtSceneNode.obj) : warning LNK4099: PDB '' was not found with 'TL-Engine2019Debug.lib(IrrlichtSceneNode.obj)' or at ''; linking object as if no debug info
-TL-Engine2019Debug.lib(IrrlichtModel.obj) : warning LNK4099: PDB '3DEngine.pdb' was not found with 'TL-Engine2019Debug.lib(IrrlichtModel.obj)' or at 'D:\Projects\Visual Studio Projects\Hover Racing\Hover Racing\3DEngine.pdb'; linking object as if no debug info
-TL-Engine2019Debug.lib(IrrlichtMesh.obj) : warning LNK4099: PDB '3DEngine.pdb' was not found with 'TL-Engine2019Debug.lib(IrrlichtMesh.obj)' or at 'D:\Projects\Visual Studio Projects\Hover Racing\Hover Racing\3DEngine.pdb'; linking object as if no debug info
-TL-Engine2019Debug.lib(IrrlichtLight.obj) : warning LNK4099: PDB '' was not found with 'TL-Engine2019Debug.lib(IrrlichtLight.obj)' or at ''; linking object as if no debug info
-TL-Engine2019Debug.lib(IrrlichtInput.obj) : warning LNK4099: PDB '3DEngine.pdb' was not found with 'TL-Engine2019Debug.lib(IrrlichtInput.obj)' or at 'D:\Projects\Visual Studio Projects\Hover Racing\Hover Racing\3DEngine.pdb'; linking object as if no debug info
-TL-Engine2019Debug.lib(IrrlichtFont.obj) : warning LNK4099: PDB '3DEngine.pdb' was not found with 'TL-Engine2019Debug.lib(IrrlichtFont.obj)' or at 'D:\Projects\Visual Studio Projects\Hover Racing\Hover Racing\3DEngine.pdb'; linking object as if no debug info
-TL-Engine2019Debug.lib(IrrlichtEngine.obj) : warning LNK4099: PDB '3DEngine.pdb' was not found with 'TL-Engine2019Debug.lib(IrrlichtEngine.obj)' or at 'D:\Projects\Visual Studio Projects\Hover Racing\Hover Racing\3DEngine.pdb'; linking object as if no debug info
-TL-Engine2019Debug.lib(IrrlichtCamera.obj) : warning LNK4099: PDB '3DEngine.pdb' was not found with 'TL-Engine2019Debug.lib(IrrlichtCamera.obj)' or at 'D:\Projects\Visual Studio Projects\Hover Racing\Hover Racing\3DEngine.pdb'; linking object as if no debug info
-  Hover Racing.vcxproj -> D:\Projects\Visual Studio Projects\Hover Racing\Hover Racing\Hover RacingDebug.exe
+  LINK : D:\Projects\Git\Visual Studio\Hover Racing\Hover RacingDebug.exe not found or not built by the last incremental link; performing full link
+TL-Engine2019Debug.lib(TL-Engine.obj) : warning LNK4099: PDB 'TL-Engine.pdb' was not found with 'TL-Engine2019Debug.lib(TL-Engine.obj)' or at 'D:\Projects\Git\Visual Studio\Hover Racing\TL-Engine.pdb'; linking object as if no debug info
+TL-Engine2019Debug.lib(Errors.obj) : warning LNK4099: PDB 'Common.pdb' was not found with 'TL-Engine2019Debug.lib(Errors.obj)' or at 'D:\Projects\Git\Visual Studio\Hover Racing\Common.pdb'; linking object as if no debug info
+TL-Engine2019Debug.lib(TLXSprite.obj) : warning LNK4099: PDB '3DEngine.pdb' was not found with 'TL-Engine2019Debug.lib(TLXSprite.obj)' or at 'D:\Projects\Git\Visual Studio\Hover Racing\3DEngine.pdb'; linking object as if no debug info
+TL-Engine2019Debug.lib(TLXSceneNode.obj) : warning LNK4099: PDB '3DEngine.pdb' was not found with 'TL-Engine2019Debug.lib(TLXSceneNode.obj)' or at 'D:\Projects\Git\Visual Studio\Hover Racing\3DEngine.pdb'; linking object as if no debug info
+TL-Engine2019Debug.lib(TLXModelNode.obj) : warning LNK4099: PDB '3DEngine.pdb' was not found with 'TL-Engine2019Debug.lib(TLXModelNode.obj)' or at 'D:\Projects\Git\Visual Studio\Hover Racing\3DEngine.pdb'; linking object as if no debug info
+TL-Engine2019Debug.lib(TLXModel.obj) : warning LNK4099: PDB '3DEngine.pdb' was not found with 'TL-Engine2019Debug.lib(TLXModel.obj)' or at 'D:\Projects\Git\Visual Studio\Hover Racing\3DEngine.pdb'; linking object as if no debug info
+TL-Engine2019Debug.lib(TLXMesh.obj) : warning LNK4099: PDB '3DEngine.pdb' was not found with 'TL-Engine2019Debug.lib(TLXMesh.obj)' or at 'D:\Projects\Git\Visual Studio\Hover Racing\3DEngine.pdb'; linking object as if no debug info
+TL-Engine2019Debug.lib(TLXLight.obj) : warning LNK4099: PDB '3DEngine.pdb' was not found with 'TL-Engine2019Debug.lib(TLXLight.obj)' or at 'D:\Projects\Git\Visual Studio\Hover Racing\3DEngine.pdb'; linking object as if no debug info
+TL-Engine2019Debug.lib(TLXFont.obj) : warning LNK4099: PDB '3DEngine.pdb' was not found with 'TL-Engine2019Debug.lib(TLXFont.obj)' or at 'D:\Projects\Git\Visual Studio\Hover Racing\3DEngine.pdb'; linking object as if no debug info
+TL-Engine2019Debug.lib(TLXEngine.obj) : warning LNK4099: PDB '3DEngine.pdb' was not found with 'TL-Engine2019Debug.lib(TLXEngine.obj)' or at 'D:\Projects\Git\Visual Studio\Hover Racing\3DEngine.pdb'; linking object as if no debug info
+TL-Engine2019Debug.lib(TLXCamera.obj) : warning LNK4099: PDB '3DEngine.pdb' was not found with 'TL-Engine2019Debug.lib(TLXCamera.obj)' or at 'D:\Projects\Git\Visual Studio\Hover Racing\3DEngine.pdb'; linking object as if no debug info
+TL-Engine2019Debug.lib(IrrlichtSceneNode.obj) : warning LNK4099: PDB '3DEngine.pdb' was not found with 'TL-Engine2019Debug.lib(IrrlichtSceneNode.obj)' or at 'D:\Projects\Git\Visual Studio\Hover Racing\3DEngine.pdb'; linking object as if no debug info
+TL-Engine2019Debug.lib(IrrlichtModel.obj) : warning LNK4099: PDB '3DEngine.pdb' was not found with 'TL-Engine2019Debug.lib(IrrlichtModel.obj)' or at 'D:\Projects\Git\Visual Studio\Hover Racing\3DEngine.pdb'; linking object as if no debug info
+TL-Engine2019Debug.lib(IrrlichtMesh.obj) : warning LNK4099: PDB '' was not found with 'TL-Engine2019Debug.lib(IrrlichtMesh.obj)' or at ''; linking object as if no debug info
+TL-Engine2019Debug.lib(IrrlichtLight.obj) : warning LNK4099: PDB '3DEngine.pdb' was not found with 'TL-Engine2019Debug.lib(IrrlichtLight.obj)' or at 'D:\Projects\Git\Visual Studio\Hover Racing\3DEngine.pdb'; linking object as if no debug info
+TL-Engine2019Debug.lib(IrrlichtInput.obj) : warning LNK4099: PDB '3DEngine.pdb' was not found with 'TL-Engine2019Debug.lib(IrrlichtInput.obj)' or at 'D:\Projects\Git\Visual Studio\Hover Racing\3DEngine.pdb'; linking object as if no debug info
+TL-Engine2019Debug.lib(IrrlichtFont.obj) : warning LNK4099: PDB '3DEngine.pdb' was not found with 'TL-Engine2019Debug.lib(IrrlichtFont.obj)' or at 'D:\Projects\Git\Visual Studio\Hover Racing\3DEngine.pdb'; linking object as if no debug info
+TL-Engine2019Debug.lib(IrrlichtEngine.obj) : warning LNK4099: PDB '3DEngine.pdb' was not found with 'TL-Engine2019Debug.lib(IrrlichtEngine.obj)' or at 'D:\Projects\Git\Visual Studio\Hover Racing\3DEngine.pdb'; linking object as if no debug info
+TL-Engine2019Debug.lib(IrrlichtCamera.obj) : warning LNK4099: PDB '3DEngine.pdb' was not found with 'TL-Engine2019Debug.lib(IrrlichtCamera.obj)' or at 'D:\Projects\Git\Visual Studio\Hover Racing\3DEngine.pdb'; linking object as if no debug info
+  Hover Racing.vcxproj -> D:\Projects\Git\Visual Studio\Hover Racing\Hover RacingDebug.exe
   Copying DLLs & shaders...
